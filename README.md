@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- ==================== CINEMATIC HERO BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=RITHISHWARAN%20K&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Founder%20%40%20Zyphora%20Creations%20%7C%20Agentic%20AI%20%26%20Full-Stack%20Architect&descFontSize=19&descAlignY=62" width="100%" alt="Rithishwaran K Hero Banner" />
+  <!-- ==================== 3D FUTURISTIC CYBER HERO BANNER ==================== -->
+  <img src="./assets/header.svg" width="100%" alt="Rithishwaran K // 3D Cybernetic Hero Banner" />
 
-  <!-- ==================== ANIMATED TYPING SUBTITLE ==================== -->
+  <!-- ==================== ANIMATED DYNAMIC TYPING ROLE ==================== -->
   <a href="https://rithishwaran.vercel.app/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=00F0FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Founder+%40+Zyphora+Creations;Agentic+AI+Developer;LLM+%26+Generative+AI+Builder;Full-Stack+%26+Mobile+Developer;Python+Developer;Computer+Vision+Explorer;Building+Intelligent+Digital+Products" alt="Dynamic Role Typing Animation" />
   </a>
@@ -33,6 +33,10 @@
 
 ### 🛰️ System Identity & Core Directive
 
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
 ```yaml
 architect: "Rithishwaran K"
 leadership: "Founder @ Zyphora Creations"
@@ -45,7 +49,16 @@ philosophy: "Turning cutting-edge AI breakthroughs into production-grade digital
 status: "Active // Engineering intelligent client systems & autonomous agent workflows"
 ```
 
-I am a software engineer, AI systems builder, and entrepreneur focused on turning complex technical concepts into intuitive, high-impact digital products. Through **Zyphora Creations**, I build end-to-end client solutions spanning custom AI applications, intelligent chatbots, responsive web platforms, and mobile apps. My technical curiosity drives deep dives into **agentic AI architectures**, **real-time computer vision**, and **UAV-based spatial 3D reconstruction**.
+I am a software engineer, AI systems builder, and founder focused on turning complex technical concepts into intuitive, high-impact digital products. Through **Zyphora Creations**, I engineer client solutions spanning custom AI applications, intelligent chatbots, responsive web platforms, and mobile apps. My technical focus bridges **agentic AI architectures**, **real-time computer vision**, and **UAV-based spatial 3D reconstruction**.
+
+  </td>
+  <td width="35%" align="center" valign="middle">
+    <img src="./assets/3d-dev.gif" width="220" alt="3D Cyber Structure Animation" />
+    <br/>
+    <sub style="color:#00F0FF; font-family: monospace;"><b>// 3D NEURAL CORE ACTIVE //</b></sub>
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -176,19 +189,40 @@ I am a software engineer, AI systems builder, and entrepreneur focused on turnin
 
 ---
 
+### 🏙️ 3D Isometric Contribution Skyline
+
+<div align="center">
+  <p><i>Live dynamic 3D voxel representation of GitHub engineering contributions & repository commits:</i></p>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Skyline" />
+</div>
+
+---
+
 ### 📊 Telemetry & Live Developer Analytics
 
 <div align="center">
 
-  <!-- Overview Stats & Top Languages -->
-  <a href="https://github.com/Rithishwaran1816">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rithishwaran1816&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=A855F7&text_color=94A3B8&count_private=true" height="180" alt="GitHub Overview Statistics" />
-  </a>
-  <a href="https://github.com/Rithishwaran1816">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithishwaran1816&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8" height="180" alt="Top Languages Used" />
-  </a>
+  <table>
+    <tr>
+      <td width="70%" align="center" valign="middle">
+        <!-- Overview Stats & Top Languages -->
+        <a href="https://github.com/Rithishwaran1816">
+          <img src="https://github-readme-stats.vercel.app/api?username=Rithishwaran1816&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=A855F7&text_color=94A3B8&count_private=true" height="175" alt="GitHub Overview Statistics" />
+        </a>
+        <a href="https://github.com/Rithishwaran1816">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithishwaran1816&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8" height="175" alt="Top Languages Used" />
+        </a>
+      </td>
+      <td width="30%" align="center" valign="middle">
+        <!-- 3D Telemetry Cube -->
+        <img src="./assets/3d-stats.gif" width="220" alt="3D Hologram Data Cube" />
+        <br/>
+        <sub style="color:#00F0FF; font-family: monospace;"><b>// 3D TELEMETRY SYNC //</b></sub>
+      </td>
+    </tr>
+  </table>
 
-  <br/><br/>
+  <br/>
 
   <!-- Contribution Streak -->
   <a href="https://github.com/Rithishwaran1816">
@@ -247,7 +281,7 @@ I am a software engineer, AI systems builder, and entrepreneur focused on turnin
 
   <br/><br/>
 
-  <!-- Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer" width="100%" alt="Footer Wave Divider" />
+  <!-- 3D Wave Footer -->
+  <img src="./assets/footer.svg" width="100%" alt="3D Cyber Footer Wave" />
 
 </div>
