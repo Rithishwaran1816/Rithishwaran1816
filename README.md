@@ -111,6 +111,13 @@ status: "Active // Engineering intelligent client systems &amp; autonomous agent
   <img src="./assets/3d-matrix-divider.svg" width="100%" alt="3D Cyber Matrix Divider" />
 </p>
 
+<!-- ==================== 3D FULL SPATIAL BACKGROUND BANNER ==================== -->
+<div align="center">
+  <img src="./assets/3d-full-background.svg" width="100%" alt="3D Spatial Intelligence Matrix" />
+</div>
+
+<br/>
+
 ### 📦 Project Showcase Matrix
 
 | Project | Focus & Classification | Core Tech Stack | Links & Repository |
