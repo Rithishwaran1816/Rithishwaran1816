@@ -1,0 +1,43 @@
+<svg width="100%" height="60" viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="divLeft" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="divRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928CA" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7928CA" stop-opacity="0" />
+    </linearGradient>
+    <filter id="divGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Left Laser Line -->
+  <line x1="100" y1="30" x2="460" y2="30" stroke="url(#divLeft)" stroke-width="1.8" filter="url(#divGlow)" />
+  <circle cx="460" cy="30" r="3" fill="#00F0FF" filter="url(#divGlow)" />
+
+  <!-- Center 3D Isometric Diamond/Cube Nodes -->
+  <g transform="translate(500, 30)">
+    <!-- Outer Diamond -->
+    <polygon points="0,-18 18,0 0,18 -18,0" fill="none" stroke="#00F0FF" stroke-width="1.5" filter="url(#divGlow)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite" />
+    </polygon>
+    <!-- Inner Diamond -->
+    <polygon points="0,-10 10,0 0,10 -10,0" fill="#7928CA" fill-opacity="0.4" stroke="#A855F7" stroke-width="1.2">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="10s" repeatCount="indefinite" />
+    </polygon>
+    <!-- Center Core Node -->
+    <circle cx="0" cy="0" r="3.5" fill="#FFFFFF" filter="url(#divGlow)">
+      <animate attributeName="r" values="3;4.5;3" dur="2s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Right Laser Line -->
+  <circle cx="540" cy="30" r="3" fill="#7928CA" filter="url(#divGlow)" />
+  <line x1="540" y1="30" x2="900" y2="30" stroke="url(#divRight)" stroke-width="1.8" filter="url(#divGlow)" />
+</svg>

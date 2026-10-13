@@ -29,7 +29,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/3d-matrix-divider.svg" width="100%" alt="3D Cyber Matrix Divider" />
+</p>
 
 ### 🛰️ System Identity & Core Directive
 
@@ -60,7 +62,9 @@ I am a software engineer, AI systems builder, and founder focused on turning com
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/3d-matrix-divider.svg" width="100%" alt="3D Cyber Matrix Divider" />
+</p>
 
 ### 🚀 Startup Spotlight: Zyphora Creations
 
@@ -94,72 +98,96 @@ I am a software engineer, AI systems builder, and founder focused on turning com
 
 <div align="center">
 
-#### 💻 Core Programming Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,java,kotlin,c,html,css" alt="Programming Languages" />
-</a>
+  <!-- 3D Perspective Matrix Banner Header -->
+  <img src="./assets/tech-banner.svg" width="100%" alt="3D Neural Stack Architecture Header" />
 
-<br/><br/>
+  <br/><br/>
 
-#### 🧠 Artificial Intelligence, LLMs & Agentic Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=flat-square&logo=openai&logoColor=00F0FF" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Tool--Calling_Agents-0D1117?style=flat-square&logo=bot&logoColor=A855F7" alt="Tool Calling Agents" />
-  <img src="https://img.shields.io/badge/LLM_Applications-0D1117?style=flat-square&logo=anthropic&logoColor=38BDF8" alt="LLM Apps" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-0D1117?style=flat-square&logo=buffer&logoColor=00F0FF" alt="RAG" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logo=sparkles&logoColor=F59E0B" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Workflow_Automation-0D1117?style=flat-square&logo=n8n&logoColor=EA580C" alt="Automation" />
-</p>
+  <!-- High-Tech Cyber Cards Matrix Layout -->
+  <table width="100%">
+    <!-- Core Programming Languages -->
+    <tr>
+      <td colspan="2" align="center" style="padding: 16px;">
+        <h4 style="margin: 0 0 12px 0;">💻 CORE PROGRAMMING LANGUAGES</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,ts,js,dart,java,kotlin,c,html,css" alt="Programming Languages" />
+        </a>
+      </td>
+    </tr>
 
-<br/>
+    <!-- AI & Agentic Systems | Computer Vision & 3D Spatial -->
+    <tr>
+      <td width="50%" align="center" style="padding: 16px;">
+        <h4 style="margin: 0 0 12px 0;">🧠 AI, LLMS &amp; AGENTIC SYSTEMS</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=flat-square&logo=openai&logoColor=00F0FF" alt="Agentic AI" />
+          <img src="https://img.shields.io/badge/Tool--Calling_Agents-0D1117?style=flat-square&logo=bot&logoColor=A855F7" alt="Tool Calling Agents" />
+          <img src="https://img.shields.io/badge/LLM_Applications-0D1117?style=flat-square&logo=anthropic&logoColor=38BDF8" alt="LLM Apps" />
+          <br/>
+          <img src="https://img.shields.io/badge/RAG_Pipelines-0D1117?style=flat-square&logo=buffer&logoColor=00F0FF" alt="RAG" />
+          <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logo=sparkles&logoColor=F59E0B" alt="Prompt Engineering" />
+          <img src="https://img.shields.io/badge/Workflow_Automation-0D1117?style=flat-square&logo=n8n&logoColor=EA580C" alt="Automation" />
+        </p>
+      </td>
+      <td width="50%" align="center" style="padding: 16px;">
+        <h4 style="margin: 0 0 12px 0;">👁️ COMPUTER VISION &amp; 3D SPATIAL COMPUTING</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="Computer Vision and ML" />
+        </a>
+        <br/><br/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/MediaPipe-Real--Time_Tracking-0D1117?style=flat-square&logo=google&logoColor=00F0FF" alt="MediaPipe" />
+          <img src="https://img.shields.io/badge/3D_Reconstruction-Photogrammetry-0D1117?style=flat-square&logo=blender&logoColor=A855F7" alt="3D Reconstruction" />
+          <img src="https://img.shields.io/badge/UAV_Video_Processing-Feature_Matching-0D1117?style=flat-square&logo=dji&logoColor=38BDF8" alt="UAV Processing" />
+        </p>
+      </td>
+    </tr>
 
-#### 👁️ Computer Vision & Spatial Computing
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="Computer Vision and ML" />
-</a>
-<p align="center">
-  <img src="https://img.shields.io/badge/MediaPipe-Real--Time_Tracking-0D1117?style=flat-square&logo=google&logoColor=00F0FF" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/3D_Reconstruction-Photogrammetry-0D1117?style=flat-square&logo=blender&logoColor=A855F7" alt="3D Reconstruction" />
-  <img src="https://img.shields.io/badge/UAV_Video_Processing-Feature_Matching-0D1117?style=flat-square&logo=dji&logoColor=38BDF8" alt="UAV Processing" />
-</p>
+    <!-- Full-Stack Web & Backend | Mobile Development -->
+    <tr>
+      <td width="50%" align="center" style="padding: 16px;">
+        <h4 style="margin: 0 0 12px 0;">🌐 FULL-STACK WEB &amp; BACKEND ARCHITECTURE</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,fastapi,nodejs,express" alt="Web & Backend" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="padding: 16px;">
+        <h4 style="margin: 0 0 12px 0;">📱 MOBILE APPLICATION ENGINEERING</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin" alt="Mobile Development" />
+        </a>
+      </td>
+    </tr>
 
-<br/>
-
-#### 🌐 Full-Stack Web & Backend Engineering
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,fastapi,nodejs,express" alt="Web & Backend" />
-</a>
-
-<br/><br/>
-
-#### 📱 Mobile Application Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin" alt="Mobile Development" />
-</a>
-
-<br/><br/>
-
-#### 🗄️ Databases & Cloud Architecture
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,postgres,docker,vercel" alt="Databases and Cloud" />
-</a>
-
-<br/><br/>
-
-#### 🧰 Developer Ecosystem & Analytics
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" alt="DevOps and Tools" />
-</a>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+    <!-- Databases & Cloud | DevOps & Analytics -->
+    <tr>
+      <td width="50%" align="center" style="padding: 16px;">
+        <h4 style="margin: 0 0 12px 0;">🗄️ DATABASES &amp; CLOUD ARCHITECTURE</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,postgres,docker,vercel" alt="Databases and Cloud" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="padding: 16px;">
+        <h4 style="margin: 0 0 12px 0;">🧰 DEVELOPER ECOSYSTEM &amp; DATA ANALYTICS</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" alt="DevOps and Tools" />
+        </a>
+        <br/><br/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+          <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+        </p>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/3d-matrix-divider.svg" width="100%" alt="3D Cyber Matrix Divider" />
+</p>
 
 ### 📦 Project Showcase Matrix
 
@@ -174,7 +202,9 @@ I am a software engineer, AI systems builder, and founder focused on turning com
 | 🤖 **Agentic AI & Custom LLMs** | **Autonomous Tool-Calling Experiments**<br/>Exploration of multi-step task planning, agentic workflows, prompt routing, and domain-adapted LLM interfaces. | `LLMs` `Agents` `RAG` `Python` | [🔬 AI Research](https://github.com/Rithishwaran1816) |
 | 🚀 **Zyphora Creations Hub** | **Digital Product & AI Venture**<br/>Official agency engineering enterprise digital transformations, web applications, and autonomous agents. | `Next.js` `Flutter` `AI Agents` | [🏢 Studio Org](https://github.com/zyphora-creations) |
 
----
+<p align="center">
+  <img src="./assets/3d-matrix-divider.svg" width="100%" alt="3D Cyber Matrix Divider" />
+</p>
 
 ### 🧠 Current Directives & Engineering Focus
 
@@ -196,7 +226,9 @@ I am a software engineer, AI systems builder, and founder focused on turning com
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Skyline" />
 </div>
 
----
+<p align="center">
+  <img src="./assets/3d-matrix-divider.svg" width="100%" alt="3D Cyber Matrix Divider" />
+</p>
 
 ### 📊 Telemetry & Live Developer Analytics
 
